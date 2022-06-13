@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061398906504",
+    "project_id": "worena-8841a",
+    "storage_bucket": "worena-8841a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061398906504:android:a434eaa7e64614e200c13d",
+        "android_client_info": {
+          "package_name": "com.dev404.worena"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061398906504-uv4qltmu48aj3c8ksl8pue0inbftpbcv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS42z-Z7mJ2-d8k3XC0QGNojh23NqajQw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061398906504-uv4qltmu48aj3c8ksl8pue0inbftpbcv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

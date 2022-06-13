@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Worena</string>
+
+    <string name="facebook_app_id">173777081428831</string>
+    <string name="fb_login_protocol_scheme">fb173777081428831</string>
+</resources>
